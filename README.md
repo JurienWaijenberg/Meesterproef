@@ -42,6 +42,7 @@ Voordat we het eerste gesprek aangingen kregen we een rondleiding van de werkpla
 
 ### Foto's atelier De Man Met De Hamer
 
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/1f82aebf7c3d899ad09906c128ac44eaa7a693c7/images/Atelier-man-met-de-hamer.png)
 
 ### Code review Victor
 Nog geen code. Dus nog geen review gehad. Wel hebben we besproken wat er nu is, welke onderdeling hij graag in de website wilt hebben en welke technieken we daarbij nodig hebben.
