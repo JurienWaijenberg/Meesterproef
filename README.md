@@ -156,6 +156,16 @@ Het moet realistischer en tegelijkertijd minder realistisch - meer een soort sim
 
 ## Week 3
 
+Deze week begon met redelijk intense onderliggende paniek omdat we eigenlijk nog steeds geen design hadden.
+
+### Onze redding
+Deze plaat is uiteindelijk onze redding geweest. Lynn kwam met het geniale idee om even los te gaan van die drie pagina’s, en te beginnen met een loader om de visuele stijl vast te leggen.
+
+### Horizontaal scrollen en scroll animatie
+
+
+### Pop-up
+
 ### Code review Victor
 Tijdens de code review zat ik alleen met Victor. Tijdens deze review hebben we mijn pop-up die met jquery werkt opnieuw gemaakt in semantische Javascript.
 
