@@ -92,7 +92,7 @@ Een van mijn leerdoelen is om makkelijker op concepten te komen en ideeën te be
 
 ![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/17271ecb7b0e8ad9c5998029b0e914c66a27ff00/images/Schetsen-Jurien.png)
 
-![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/17271ecb7b0e8ad9c5998029b0e914c66a27ff00/images/Schetsen-Jurien.png)
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/7c9d0238e8899487fc2791231afccad74c1b2c0d/images/Uitgewerkte-schets.png)
 
 ### Code review Victor
 Nog geen code. Dus nog geen review gehad. Wel hebben we besproken wat er nu is, welke onderdeling hij graag in de website wilt hebben en welke technieken we daarbij nodig hebben.
