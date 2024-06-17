@@ -127,7 +127,7 @@ De volgende stap is om schetsen te maken zodat we voor het volgende gesprek iets
 
 ## Week 2
 
-![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/7c9d0238e8899487fc2791231afccad74c1b2c0d/images/Uitgewerkte-schets.png)
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/65f8f12e5503eda03ba8eabf1bef7b76cd4c0807/images/Animatie-youp.png)
 
 Om de monty python style een beetje terug te laten komen heb ik wat foto's uitgeknipt en een daarvan geanimeerd. We hadden het idee om bijvoorbeeld Youp van 't Hek het scherm in te laten vallen en vervolgens zegt "Welkom op de website van de man met de hamer". Ik heb Youp dus uitgeknipt en zijn mond geanimeerd.
 
