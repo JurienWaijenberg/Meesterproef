@@ -94,19 +94,59 @@ Een van mijn leerdoelen is om makkelijker op concepten te komen en ideeën te be
 
 ![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/7c9d0238e8899487fc2791231afccad74c1b2c0d/images/Uitgewerkte-schets.png)
 
+De uitgewerkte schets die je hierboven ziet is een kast. Deze kast staat in het kantoor van Maarten. Het idee was om onderdelen van zijn kantoor/werkplaats terug te laten komen op de website. Het idee van de kast was om de werknemers hierin te zetten met fotolijstjes.
+
 ### Code review Victor
 Nog geen code. Dus nog geen review gehad. Wel hebben we besproken wat er nu is, welke onderdeling hij graag in de website wilt hebben en welke technieken we daarbij nodig hebben.
 
 ### Design review Vasilis
 Over de style gehad van de man met de hamer. De dinsdag hiervoor hebben we een rondleiding gehad bij zijn werkplaats.
 
+### Gesprek vrijdag 17 mei
+
+#### Notulen
+- Te cinema
+- Kijk naar voorbeelden hoe theaters openen
+- Zoek naar foto's van een kaal theater
+- Beetje dark vibe
+- Een persoon die op het podium staat en de website introduceert als je de website opent
+- Trekkenwand
+- Meer het theatergevoel brengen
+- Geen programma
+- Maarten heeft niet perse een favoriet decorstuk, specifieke decorstukken uitlichten is dus niet perse nodig
+- Presentator komt op podium,
+- Misschien meer een monty python, cutouts van gezichten van bekende theater personaliteiten die de voorstelling voorstellen.
+- Transition tussen menu's met trekkenwand (doek naar binnen, diepte geven met decorstukken, decorstukken schuiven naar binnen en buiten)
+- Meer dingen in het theater zelf doen?
+- Het gevoel van illusie terugbrengen, 3d parallax
+- Backstage gastje die rondloopt
+- Merchandising?
+
+### Conclusie
+De volgende stap is om schetsen te maken zodat we voor het volgende gesprek iets hebben om te laten zien.
+
 ## Week 2
+
+### Technisch onderzoek
+We hebben er voor gekozen om Wordpress te gebruiken. In Wordpress gaan we een eigen thema maken zodat we technisch alles zelf kunnen bepalen. Daarnaast voegen we custom post types toe waarmee we de projecten en werknemers kunnen toevoegen. Om de content op de pagina’s dynamisch te maken gaan we ACF gebruiken. Hiermee kun je vanuit wordpress alle content gemakkelijk aanpassen.
 
 ### Code review Cyd
 Tijdens de code review met Cyd hebben we besproken welke en hoe we het CSM gaan gebruiken. We hebben er voor gekozen om Wordpress te gebruiken. Hier heb ik al wat ervaring mee. Na de review heb ik met Cyd gezeten om er voor te zorgen dat ik Wordpress local heb draaien zodat mijn groepje dit straks ook kan doen. Doordat het local draait kan het gekoppelt worden aan Gitgub.
 
 ### Design review Sanne
 
+
+### Gesprek vrijdag 24 mei
+- Donald Duck teksten
+- Geheime pagina erin verwerken
+- Brand scherm
+- Backstage podium
+- Vanuit de backstage kijkend naar het publiek
+- Haze (mist)
+- 3D omgeving is vet, maar liever in 2D maar zo echt mogelijk (hoeft er overigens niet gelikt eruit te zien)
+
+#### Conclusie
+Het moet realistischer en tegelijkertijd minder realistisch - meer een soort simulatie van het reële.
 
 ## Week 3
 
