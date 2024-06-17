@@ -46,7 +46,7 @@ Voordat we het eerste gesprek aangingen kregen we een rondleiding van de werkpla
 
 ## Debrief
 
-![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/1f82aebf7c3d899ad09906c128ac44eaa7a693c7/images/Debrief.png)
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/17271ecb7b0e8ad9c5998029b0e914c66a27ff00/images/Debrief.png)
 
 ### De opdracht
 Er moet een website ontworpen worden waarin de stijl van het werk en atelier van ‘De Man met de Hamer’ wordt overgebracht aan eventuele opdrachtgevers. Dit moet gebeuren door de analoge look & feel die ook in het werk en de werkplaats te vinden is. Er moet een homepagina komen waarin de gemaakte werken worden tentoongesteld in drie categorieën: decor, props en interieur. Ook komt er een pagina ‘over ons’, waarin het ontstaan, de visie, de medewerkers en ‘vrienden van’ worden laten zien. De man met de hamer wil ook een pagina waar hij decorstukken te koop kan zetten, zodat mensen hierover contact kunnen opnemen. Het zou leuk zijn als er ook een pagina is waar de agenda te vinden is, zodat klanten kunnen zien wanneer er nog ruimte open is.
@@ -89,7 +89,7 @@ Planning/agenda: live feed/foto’s
 
 ### Schetsen
 
-![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/1f82aebf7c3d899ad09906c128ac44eaa7a693c7/images/Schetsen-Jurien.png)
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/17271ecb7b0e8ad9c5998029b0e914c66a27ff00/images/Schetsen-Jurien.png)
 
 ### Code review Victor
 Nog geen code. Dus nog geen review gehad. Wel hebben we besproken wat er nu is, welke onderdeling hij graag in de website wilt hebben en welke technieken we daarbij nodig hebben.
