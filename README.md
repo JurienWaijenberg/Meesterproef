@@ -2,6 +2,47 @@
 
 ## Week 1
 
+### Vragen aan de opdrachtgever
+- Hoe houden we contact?
+- Hoevaak en hoelaat komen we langs? (mededeling)
+- Wat is je doel?
+- Wat is het probleem?
+- Wat zijn je verwachtingen van ons?
+- Doelgroep
+- Wanneer is het project geslaagd?
+- MoSCoW-methode
+- Inspiratie van andere bedrijven
+- Hoe beheer je nu de website en mag dat ook anders? (inlog gegevens vragen)
+- Wat wil je uitstralen?
+- Wat voor functies wil je in je website?
+
+### Inspiratie (laten zien aan de opdrachtgever)
+- https://www.synthetictheatre.com/?utm_source=extension&utm_medium=click&utm_campaign=muzli
+- https://www.valverde.nl/
+- https://logosystem.co/?utm_source=extension&utm_medium=click&utm_campaign=muzli
+- https://www.rezo-zero.com/
+- https://www.kopexpo.com/nl/standbouw/amsterdam
+- https://unsplash.com/
+- https://vrseat.vercel.app/
+
+Achteraf hebben we samen Maarten besloten om dat niet te doen. Om te verkomen dat we een website na gaan maken.
+
+### Aantekeningen eerste gesprek opdrachtgever (dinsdag 14 mei)
+- Vaak ongrijpbaar wat hij doet en kan
+- Analoge uitstraling, persoonlijk, kwaliteit, digitale wereld werkt niet bij dit beroep
+- Foto: naam productie, ontwerper, fotograaf, jaar, titel
+- Hamburger menu: medewerkers, korte uitleg ontstaan, visie, basis informatie (trek op tijd aan de bel, offerte niet meer gratis, geen partij ertussen)
+- Niet veel tekst, beknopt
+- Analoge planning digitaal maken (idee)
+- Pagina om items te verkopen
+- Linkjes naar service aanraders (goede tegelzetter, schilder etc.)
+
+### Conclusie eerste gesprek
+Voordat we het eerste gesprek aangingen kregen we een rondleiding van de werkplaats van De Man Met De Hamer. Hierdoor kregen we meer een idee wat voor soort werk hij doet. Hij is een decorbouwer voor theater voorstellingen, maar soms maak hij ook decorstukken voor films en series.
+
+### Foto's atelier De Man Met De Hamer
+
+
 ### Code review Victor
 Nog geen code. Dus nog geen review gehad. Wel hebben we besproken wat er nu is, welke onderdeling hij graag in de website wilt hebben en welke technieken we daarbij nodig hebben.
 
@@ -38,6 +79,9 @@ Geen concrete feedback gehad.
 ## Week 5
 
 ### Code review Cyd
+Button om img heen, met tekst open project.
+Data van het project in data attributen/set.
+Javascript hover veranderen naar css hover voor focus state.
 
 ### Design review Vasilis
 
