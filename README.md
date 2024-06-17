@@ -88,6 +88,9 @@ CMS integratie
 Planning/agenda: live feed/foto’s
 
 ### Schetsen
+Een van mijn leerdoelen is om makkelijker op concepten te komen en ideeën te bedenken voor de opdracht die ik heb. Tijdens dit project heb ik me daar in het begin op gefocused. Wat ik hiervoor niet had gedaan en nu wel heb gedaan is schetsen. Daarnaast heb ik gemerkt dat je door te communiceren met anderen veel makkelijker op ideeën komt. Dit is voor dit leerdoel het belangrijkste leer moment. In de opdrachten hiervoor ben ik vast gelopen omdat ik in mijn eentje bezig was. Omdat het een individuele opdracht was heb ik dit met niemand besproken waardoor ik vast ben gelopen.
+
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/17271ecb7b0e8ad9c5998029b0e914c66a27ff00/images/Schetsen-Jurien.png)
 
 ![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/17271ecb7b0e8ad9c5998029b0e914c66a27ff00/images/Schetsen-Jurien.png)
 
