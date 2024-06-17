@@ -44,6 +44,53 @@ Voordat we het eerste gesprek aangingen kregen we een rondleiding van de werkpla
 
 ![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/1f82aebf7c3d899ad09906c128ac44eaa7a693c7/images/Atelier-man-met-de-hamer.png)
 
+## Debrief
+
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/1f82aebf7c3d899ad09906c128ac44eaa7a693c7/images/Debrief.png)
+
+### De opdracht
+Er moet een website ontworpen worden waarin de stijl van het werk en atelier van ‘De Man met de Hamer’ wordt overgebracht aan eventuele opdrachtgevers. Dit moet gebeuren door de analoge look & feel die ook in het werk en de werkplaats te vinden is. Er moet een homepagina komen waarin de gemaakte werken worden tentoongesteld in drie categorieën: decor, props en interieur. Ook komt er een pagina ‘over ons’, waarin het ontstaan, de visie, de medewerkers en ‘vrienden van’ worden laten zien. De man met de hamer wil ook een pagina waar hij decorstukken te koop kan zetten, zodat mensen hierover contact kunnen opnemen. Het zou leuk zijn als er ook een pagina is waar de agenda te vinden is, zodat klanten kunnen zien wanneer er nog ruimte open is.
+
+### User stories
+1. Als Man Met De Hamer wil ik de uitstraling en attitude van mijn bedrijf terugzien in de website, zodat klanten weten met wie ze in zee gaan
+2. Als (potentiële) klant wil ik geïnspireerd raken én een goed beeld krijgen van het bedrijf waarmee ik ga samenwerken, zodat ik weet wat me te wachten staat
+3. Als Man Met De Hamer wil ik de site op een zo eenvoudig mogelijke manier kunnen onderhouden zodat ik daar zo min mogelijk tijd aan kwijt ben.
+
+### Pagina's
+- Home
+- Over ons (ontstaan, visie, medewerkers)
+- Te koop
+
+### MoSCoW
+
+#### Must have’s
+
+- Pagina met medewerkers
+- Intro tekst / korte uitleg ontstaan
+- Afbeeldingen van producties met:
+    - Naam productie
+    - Ontwerper
+    - Fotograaf
+    - Jaar
+- Pagina voor decorstukken die verkocht kunnen worden
+- Links naar service aanraders
+- Stukje tekst over contact - 1 op 1, geen video calls, op locatie
+- Detailpagina o.i.d. voor elk werk, zodat er aparte links beschikbaar zijn voor de verschillende werken waaraan gerefereerd kan worden.
+
+#### Should have’s
+
+Analoge look & feel
+
+CMS integratie
+
+#### Could have’s
+
+Planning/agenda: live feed/foto’s
+
+### Schetsen
+
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/1f82aebf7c3d899ad09906c128ac44eaa7a693c7/images/Schetsen-Jurien.png)
+
 ### Code review Victor
 Nog geen code. Dus nog geen review gehad. Wel hebben we besproken wat er nu is, welke onderdeling hij graag in de website wilt hebben en welke technieken we daarbij nodig hebben.
 
