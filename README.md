@@ -365,4 +365,3 @@ De laatste week hebben we in de drie dagen die we hadden de designrationale afge
 ### Presentatie De man met de hamer
 Op donderdag zijn we met de hele groep naar Diemen gegaan om onze website te presenteren aan Maarten. Maarten is blij met het proces dat we hebben gehad en vond het interresant om weer met wat jongere mensen te werken. Dit heeft hem geinspireerd om een stagiere aan te nemen. Het eindresultaat is alleen niet helemaal de stijl die hij voor ogen had. Los daarvan vond hij wat we gemaakt hadden wel gaaf. 
 
-## Conslusie
