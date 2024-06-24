@@ -332,6 +332,8 @@ We hebben afspraken gemaakt over het schrijven van code en hebben ondertekend da
 
 ### Carré
 
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/78304e6f3ee65cd5922d40c0e0fa853435be0ed6/images/Carre.jpeg)
+
 De Man met de Hamer heeft ons meegenomen behind the scenes bij Carré. Dit was heel tof en inspirerend, we hebben veel content geschoten om eventueel later naar te refereren voor ons design.
 
 ### Code review Marten
@@ -344,12 +346,14 @@ Opbouw code nog niet semantische
 
 ### Planning
 
+![Schermafbeelding van mijn applicatie](https://github.com/JurienWaijenberg/Meesterproef/blob/78304e6f3ee65cd5922d40c0e0fa853435be0ed6/images/Planning.png)
+
 We hebben nu het idee voor de homepage helemaal af, dus we willen het nu definitief gaan bouwen. Hiervoor moet de 3d room af; de templates voor het scrollen gemaakt worden; en de content in WP gezet.
 
 
 ### MoSCoW
 
-
+![Schermafbeelding van de moscow](https://github.com/JurienWaijenberg/Meesterproef/blob/78304e6f3ee65cd5922d40c0e0fa853435be0ed6/images/Moscow.jpg)
 
 ### Code review Cyd
 Button om img heen, met tekst open project.
