@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Juriën Waijenberg">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css" >
+
+    <script src="https://unpkg.com/lenis@1.0.45/dist/lenis.min.js"></script> 
+    
+    <script src="https://assets.codepen.io/16327/gsap-latest-beta.min.js"></script>
+    <script src="https://assets.codepen.io/16327/ScrollTrigger.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <img src="images/Scherm_afbeelding_2024-05-22_om_13.39 1.png" alt="">
+    </header>
+    <main>
+        <section class="horizontal-scroll">
+            <section class="skewElem">
+                <img src="images/11101-GG0389.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/20121215-_CDS7394_.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/2023-SM-DOORLOOP-00007.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/br1.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/Conrad.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/11101-GG0389.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/20121215-_CDS7394_.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/2023-SM-DOORLOOP-00007.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/br1.jpg" alt="">
+            </section>
+            <section class="skewElem">
+                <img src="images/Conrad.jpg" alt="">
+            </section>
+        </section>
+        <dialog class="dialog">
+            <div class="img-show">
+              <button>X</button>
+              <img src="">
+            </div>
+        </dialog>
+    </main>
+</body>
+
+<script>
+    const dialog = document.querySelector(".dialog");
+    const dialogImage = document.querySelector(".dialog img");
+    const images = document.querySelectorAll(".horizontal-scroll img");
+    const closeButton = document.querySelector(".dialog button");
+
+    images.forEach(image=>{
+        image.addEventListener("click", event=>{
+            dialog.showModal()
+            dialogImage.setAttribute("src", image.src)
+        })
+        console.log(image)
+    })
+
+    closeButton.addEventListener("click", event=>{
+        dialog.close()
+        dialogImage.setAttribute("src", "")
+    })
+
+    console.log(images);
+</script>
+
+<script>
+    const lenis = new Lenis({
+        orientation: 'horizontal',
+        wrapper: document.querySelector('.horizontal-scroll'),
+        lerp: 0.3,
+    })
+
+    function raf(time) {
+        lenis.raf(time)
+        requestAnimationFrame(raf)
+    }
+
+    requestAnimationFrame(raf)
+</script>
+
+<script>
+    ScrollTrigger.defaults({
+        scroller: ".horizontal-scroll",
+        horizontal: true
+    });
+
+    let proxy = { skew: 0 },
+        skewSetter = gsap.quickSetter(".skewElem", "skewY", "deg"), // fast
+        clamp = gsap.utils.clamp(-15, 15); // don't let the skew go beyond 20 degrees. 
+    
+    ScrollTrigger.create({
+      onUpdate: (self) => {
+        let skew = clamp(self.getVelocity() / -300);
+        // only do something if the skew is MORE severe. Remember, we're always tweening back to 0, so if the user slows their scrolling quickly, it's more natural to just let the tween handle that smoothly rather than jumping to the smaller skew.
+        if (Math.abs(skew) > Math.abs(proxy.skew)) {
+          proxy.skew = skew;
+          gsap.to(proxy, {skew: 0, duration: 0.2, ease: "power4.out", overwrite: true, onUpdate: () => skewSetter(proxy.skew)});
+        }
+      }
+    });
+    
+    // make the right edge "stick" to the scroll bar. force3D: true improves performance
+    gsap.set(".skewElem", {transformOrigin: "right center", force3D: true});
+    
+</script>
+
+
+
+
+
+</html>
